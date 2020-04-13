@@ -1,0 +1,11 @@
+
+body{
+  background-color: rgba(0,0,0,0.08);
+}
+
+.form-control:focus{
+  outline: 0;
+  border-color: #ccc!important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(72, 180, 97, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(72, 180, 97, 0.5);
+}
