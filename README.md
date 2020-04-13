@@ -1,5 +1,5 @@
 
-[DEMO for the application](https://chatty-d275b.web.app/)
+> [DEMO for the application](https://chatty-d275b.web.app/)
 
 # chatty
 
